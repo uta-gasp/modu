@@ -13,7 +13,7 @@ namespace GazeNetClient.Pointer
         private PointerWidget iWidget;
         private Style iAppearance;
         private int iColorIndex;
-        private double iOpacity = 0.5;
+        private double iOpacity = 1;
         private double iDataAvailability;
 
         private long iLastDataTimestamp = 0;

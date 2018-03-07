@@ -40,7 +40,7 @@
             this.pcbImage.Location = new System.Drawing.Point(0, 0);
             this.pcbImage.Margin = new System.Windows.Forms.Padding(0);
             this.pcbImage.Name = "pcbImage";
-            this.pcbImage.Size = new System.Drawing.Size(48, 48);
+            this.pcbImage.Size = new System.Drawing.Size(32, 32);
             this.pcbImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pcbImage.TabIndex = 0;
             this.pcbImage.TabStop = false;
@@ -56,7 +56,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(48, 48);
+            this.ClientSize = new System.Drawing.Size(32, 32);
             this.Controls.Add(this.pcbImage);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

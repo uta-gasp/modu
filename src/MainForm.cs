@@ -86,6 +86,7 @@ namespace Modu
             else
             {
                 Log(InfoSource.SND, e.Message);
+                SetControlState(ControlState.Disconnected);
             }
         }
 
